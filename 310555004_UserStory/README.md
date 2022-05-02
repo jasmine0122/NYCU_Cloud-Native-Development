@@ -1,9 +1,11 @@
-# 0427 practice questions
-## Imagine you’re trying to develop a “Uber”
-- Writing user stories
-- Writing acceptance criteria
-## Create a new repository on github
-- Check in your document of user stories produced by previous requirement
-- Try to branch and modify the document
-- Create a pull request
-- Ask one of your classmate to write review comment and merge
+## Topic
+Uber
+## User stories
+今天我跟多位朋友一起出遊，因為要去多個地方，最後決定搭乘uber。
+以前都是使用我的手機來叫uber，所以都是由我先付錢，再跟朋友收費，朋友還抱怨我收錯價格，讓我很是苦惱。
+我希望能夠有平均車資的服務，且可以記錄一起搭乘的乘客，這樣下次出遊就能夠直接選取朋友名單了！
+
+## Acceptance criteria:
+- 如果要其他乘客平均車資的話，可以在付款方式的地方點按「平分車資」，讓使用者可以不用向司機找換零錢。
+- 計算評分後的車資和傳送帳單給使用者所設定的其他乘客，不需要主動去計算該收多少車資。
+- 設定自動記錄，將使用者所記錄過的乘客資訊名單加入至使用者帳號中，以方便下次選取。
