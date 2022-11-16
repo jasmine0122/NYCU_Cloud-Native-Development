@@ -1,5 +1,5 @@
 # NYCU_Cloud-Native-Development
-2022 NYCU 110-2 雲原生軟體開發與最佳實踐 Cloud Native Development: towards Best Practice NCTU
+2022 NYCU 110-2 雲原生軟體開發與最佳實踐 Cloud Native Development: towards Best Practice
 
 ⭐⭐⭐如果對你有幫助的話，請幫我點下Star⭐⭐⭐
 
